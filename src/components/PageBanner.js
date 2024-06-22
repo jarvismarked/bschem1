@@ -8,7 +8,9 @@ const PageBanner = ({ pageName, pageTitle }) => {
     >
       <div className="brand-card text-center">
         <img src="assets/images/icon/wheat.png" alt="icon" />
-        <h3>Orgarium</h3>
+        <h3>Blacksun </h3>
+        <h5>Chemical </h5>
+
       </div>
       <div className="container">
         <div className="row">
