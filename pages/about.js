@@ -16,36 +16,33 @@ const About = () => {
               <div className="about-content-box content-box-gap mb-50">
                 <div className="section-title section-title-left wow fadeInUp mb-30">
                   <span className="sub-title">About Us</span>
-                  <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                  <h2><strong>Blacksun Chemical</strong>:  
+                  Dẫn Đầu Trong Đổi Mới  Hóa Chất         
+</h2> 
                 </div>
                 <p>
-                  Natus error sit voluptatem accusantium doloremque laudatium,
-                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                  et quasi architecto beatae vitae dicta sunt
+                Tại Blacksun Chemical, chúng tôi cam kết cung cấp các giải pháp hóa chất hàng đầu thúc đẩy tiến bộ và đổi mới trong nhiều ngành công nghiệp. Với nền tảng xây dựng trên sự xuất sắc và cách tiếp cận tiên tiến, chúng tôi nỗ lực đáp ứng nhu cầu đa dạng của khách hàng với độ chính xác và tin cậy cao.
                 </p>
                 <div className="choose-item-list wow fadeInDown">
                   <div className="single-choose-item mb-30">
                     <div className="text">
-                      <h5>100% Natural Foods</h5>
+                      <h5>Đảm Bảo Chất Lượng 100%</h5>
                       <p>
-                        Accusantium doloremque laudatium, totam rem aperiam
-                        inventore veritatis et quasi architecto beatae{" "}
+                      Sản phẩm của chúng tôi được chế tạo tỉ mỉ và kiểm tra kỹ lưỡng để đảm bảo tiêu chuẩn cao nhất về chất lượng và an toàn. Chúng tôi tự hào cung cấp các hóa chất hiệu quả và thân thiện với môi trường.{" "}
                       </p>
                     </div>
                   </div>
                   <div className="single-choose-item mb-30">
                     <div className="text">
-                      <h5>Modern Euipments</h5>
-                      <p>
-                        Accusantium doloremque laudatium, totam rem aperiam
-                        inventore veritatis et quasi architecto beatae{" "}
+                      <h5>Công Nghệ và Thiết Bị Hiện Đại</h5>
+                      <p>Sử dụng công nghệ mới nhất và thiết bị hiện đại, chúng tôi đảm bảo quy trình sản xuất hiệu quả, bền vững và phù hợp với các thực hành tốt nhất trong ngành. Cam kết đổi mới của chúng tôi thúc đẩy chúng tôi liên tục cải tiến và thích ứng với nhu cầu thị trường đang thay đổi.{" "}
                       </p>
                     </div>
                   </div>
                 </div>
                 <div className="about-button wow fadeInUp">
                   <Link href="/about">
-                    <a className="main-btn btn-yellow">Learn More Us</a>
+                    <a className="main-btn btn-yellow">Về chúng tôi</a>
                   </Link>
                 </div>
               </div>
