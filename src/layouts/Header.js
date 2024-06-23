@@ -653,9 +653,7 @@ const Menu = () => (
   <nav className="main-menu d-none d-xl-block">
     <ul>
       <li className="menu-item ">
-        <a href="/" className="active">
-          Home
-        </a>
+      <Link href="/">Home</Link>
       </li>
       <li>
         <Link href="/about">About</Link>

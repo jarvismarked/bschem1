@@ -248,7 +248,8 @@ const Index3 = () => {
                   <span className="sub-title">About Us</span>
                   <h2>
                     {" "}
-                    Chúng tôi là Công ty <br /> Hóa Chất Mặt Trời Đen
+                    Chúng tôi là <br />   
+                    <strong>Hóa Chất Mặt Trời Đen</strong>
                   </h2>{" "}
                 </div>
                 <p>
