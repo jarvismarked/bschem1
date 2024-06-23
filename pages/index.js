@@ -246,7 +246,10 @@ const Index3 = () => {
               <div className="about-content_box content-box-gap pl-lg-60">
                 <div className="section-title section-title-left mb-15 wow fadeInUp">
                   <span className="sub-title">About Us</span>
-                  <h2>We’re Best Agriculture &amp; Organic Firms</h2>
+                  <h2>
+                    {" "}
+                    Chúng tôi là Công ty <br /> Hóa Chất Mặt Trời Đen
+                  </h2>{" "}
                 </div>
                 <p>
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
